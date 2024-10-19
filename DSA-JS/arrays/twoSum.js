@@ -4,7 +4,6 @@ const twoSum = (arr, target)=>{
             if (arr[i]+arr[j]===target){
                 console.log(arr[i],arr[j])
                 return[i,j]
-                
 
             }
            
